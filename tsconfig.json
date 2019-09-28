@@ -1,0 +1,17 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs",
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true,
+        "jsx": "react",
+        "sourceMap": true,
+        "outDir": "./dist",
+        "strict": true,
+        "strictNullChecks": false
+    },
+    "include": [
+        "./src"
+    ]   
+}
